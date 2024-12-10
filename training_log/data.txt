@@ -1,0 +1,764 @@
+Iteration 4/800
+Policy Loss: 4.2169, Value Loss: 1.1306
+Iteration 5/800
+Policy Loss: 4.1832, Value Loss: 1.0171
+Iteration 6/800
+Policy Loss: 4.1603, Value Loss: 0.7339
+Iteration 7/800
+Policy Loss: 4.1284, Value Loss: 0.5369
+Iteration 8/800
+Policy Loss: 4.0972, Value Loss: 0.8261
+Iteration 9/800
+Policy Loss: 3.8171, Value Loss: 0.8624
+Iteration 10/800
+Policy Loss: 3.7120, Value Loss: 0.9876
+Starting evaluation against pure MCTS at iteration 10
+win: 0, lose: 10, tie:0
+Iteration 11/800
+Policy Loss: 3.5984, Value Loss: 0.9600
+Iteration 12/800
+Policy Loss: 3.6498, Value Loss: 0.3154
+Iteration 13/800
+Policy Loss: 2.9102, Value Loss: 0.4001
+Iteration 14/800
+Policy Loss: 3.9201, Value Loss: 0.2384
+Iteration 15/800
+Policy Loss: 3.3819, Value Loss: 0.4497
+Iteration 16/800
+Policy Loss: 3.1947, Value Loss: 0.5074
+Iteration 17/800
+Policy Loss: 3.9347, Value Loss: 0.3945
+Iteration 18/800
+Policy Loss: 3.5925, Value Loss: 0.2851
+Iteration 19/800
+Policy Loss: 3.2980, Value Loss: 0.1941
+Iteration 20/800
+Policy Loss: 3.4792, Value Loss: 0.0072
+Starting evaluation against pure MCTS at iteration 20
+win: 1, lose: 9, tie:0
+Iteration 21/800
+Policy Loss: 3.3398, Value Loss: 0.0610
+Iteration 22/800
+Policy Loss: 3.0467, Value Loss: 0.1223
+Iteration 23/800
+Policy Loss: 3.7444, Value Loss: 0.3663
+Iteration 24/800
+Policy Loss: 3.4765, Value Loss: 0.3469
+Iteration 25/800
+Policy Loss: 2.9067, Value Loss: 0.1706
+Iteration 26/800
+Policy Loss: 2.8585, Value Loss: 0.2259
+Iteration 27/800
+Policy Loss: 3.3786, Value Loss: 0.2811
+Iteration 28/800
+Policy Loss: 2.8307, Value Loss: 0.3343
+Iteration 29/800
+Policy Loss: 3.2739, Value Loss: 0.3331
+Iteration 30/800
+Policy Loss: 3.0259, Value Loss: 0.3308
+Starting evaluation against pure MCTS at iteration 30
+win: 1, lose: 9, tie:0
+Iteration 31/800
+Policy Loss: 2.7817, Value Loss: 0.2738
+Iteration 32/800
+Policy Loss: 2.8953, Value Loss: 0.4373
+Iteration 33/800
+Policy Loss: 3.5689, Value Loss: 0.4329
+Iteration 34/800
+Policy Loss: 2.8599, Value Loss: 0.4257
+Iteration 35/800
+Policy Loss: 3.2816, Value Loss: 0.4213
+Iteration 36/800
+Policy Loss: 2.9854, Value Loss: 0.3626
+Iteration 37/800
+Policy Loss: 3.0703, Value Loss: 0.4628
+Iteration 38/800
+Policy Loss: 3.1921, Value Loss: 0.3561
+Iteration 39/800
+Policy Loss: 3.3085, Value Loss: 0.2511
+Iteration 40/800
+Policy Loss: 3.4158, Value Loss: 0.6454
+Starting evaluation against pure MCTS at iteration 40
+win: 1, lose: 9, tie:0
+Iteration 41/800
+Policy Loss: 3.2093, Value Loss: 0.4897
+Iteration 42/800
+Policy Loss: 2.6648, Value Loss: 0.2418
+Iteration 43/800
+Policy Loss: 2.9908, Value Loss: 0.4768
+Iteration 44/800
+Policy Loss: 2.4431, Value Loss: 0.1882
+Iteration 45/800
+Policy Loss: 2.9627, Value Loss: 0.2779
+Iteration 46/800
+Policy Loss: 2.4935, Value Loss: 0.3650
+Iteration 47/800
+Policy Loss: 2.1895, Value Loss: 0.1806
+Iteration 48/800
+Policy Loss: 2.8828, Value Loss: 0.2665
+Iteration 49/800
+Policy Loss: 3.0484, Value Loss: 0.3511
+Iteration 50/800
+Policy Loss: 2.6717, Value Loss: 0.3003
+Starting evaluation against pure MCTS at iteration 50
+win: 0, lose: 10, tie:0
+Iteration 51/800
+Policy Loss: 2.2055, Value Loss: 0.2119
+Iteration 52/800
+Policy Loss: 2.3352, Value Loss: 0.2074
+Iteration 53/800
+Policy Loss: 3.2857, Value Loss: 0.3237
+Iteration 54/800
+Policy Loss: 2.8232, Value Loss: 0.1633
+Iteration 55/800
+Policy Loss: 2.0790, Value Loss: 0.2352
+Iteration 56/800
+Policy Loss: 2.5800, Value Loss: 0.1545
+Iteration 57/800
+Policy Loss: 2.1791, Value Loss: 0.2230
+Iteration 58/800
+Policy Loss: 2.4629, Value Loss: 0.1850
+Iteration 59/800
+Policy Loss: 2.3217, Value Loss: 0.1043
+Iteration 60/800
+Policy Loss: 2.7309, Value Loss: 0.2808
+Starting evaluation against pure MCTS at iteration 60
+win: 0, lose: 10, tie:0
+Iteration 61/800
+Policy Loss: 2.6472, Value Loss: 0.3098
+Iteration 62/800
+Policy Loss: 1.7971, Value Loss: 0.1579
+Iteration 63/800
+Policy Loss: 2.5008, Value Loss: 0.1600
+Iteration 64/800
+Policy Loss: 1.9228, Value Loss: 0.2641
+Iteration 65/800
+Policy Loss: 2.1990, Value Loss: 0.1765
+Iteration 66/800
+Policy Loss: 2.4454, Value Loss: 0.1626
+Iteration 67/800
+Policy Loss: 1.8432, Value Loss: 0.0922
+Iteration 68/800
+Policy Loss: 2.1901, Value Loss: 0.1587
+Iteration 69/800
+Policy Loss: 2.4631, Value Loss: 0.0768
+Iteration 70/800
+Policy Loss: 1.9144, Value Loss: 0.0904
+Starting evaluation against pure MCTS at iteration 70
+win: 7, lose: 3, tie:0
+Iteration 71/800
+Policy Loss: 2.1391, Value Loss: 0.1522
+Iteration 72/800
+Policy Loss: 2.0370, Value Loss: 0.0724
+Iteration 73/800
+Policy Loss: 1.9585, Value Loss: 0.0836
+Iteration 74/800
+Policy Loss: 2.1390, Value Loss: 0.0662
+Iteration 75/800
+Policy Loss: 2.0661, Value Loss: 0.0251
+Iteration 76/800
+Policy Loss: 2.0381, Value Loss: 0.0229
+Iteration 77/800
+Policy Loss: 1.5026, Value Loss: 0.0163
+Iteration 78/800
+Policy Loss: 1.3933, Value Loss: 0.0005
+Iteration 79/800
+Policy Loss: 1.5078, Value Loss: 0.0042
+Iteration 80/800
+Policy Loss: 1.5100, Value Loss: 0.0033
+Starting evaluation against pure MCTS at iteration 80
+win: 6, lose: 4, tie:0
+Iteration 81/800
+Policy Loss: 1.7342, Value Loss: 0.0014
+Iteration 82/800
+Policy Loss: 1.3303, Value Loss: 0.0003
+Iteration 83/800
+Policy Loss: 1.5152, Value Loss: 0.0013
+Iteration 84/800
+Policy Loss: 1.2298, Value Loss: 0.0672
+Iteration 85/800
+Policy Loss: 1.1662, Value Loss: 0.0009
+Iteration 86/800
+Policy Loss: 1.3021, Value Loss: 0.0040
+Iteration 87/800
+Policy Loss: 1.6860, Value Loss: 0.0547
+Iteration 88/800
+Policy Loss: 1.4358, Value Loss: 0.0218
+Iteration 89/800
+Policy Loss: 1.2672, Value Loss: 0.0233
+Iteration 90/800
+Policy Loss: 1.0098, Value Loss: 0.0005
+Starting evaluation against pure MCTS at iteration 90
+win: 4, lose: 6, tie:0
+Iteration 91/800
+Policy Loss: 1.3423, Value Loss: 0.0007
+Iteration 92/800
+Policy Loss: 1.7181, Value Loss: 0.0007
+Iteration 93/800
+Policy Loss: 1.1883, Value Loss: 0.0004
+Iteration 94/800
+Policy Loss: 1.1402, Value Loss: 0.0000
+Iteration 95/800
+Policy Loss: 0.8589, Value Loss: 0.0001
+Iteration 96/800
+Policy Loss: 1.1069, Value Loss: 0.0000
+Iteration 97/800
+Policy Loss: 1.2824, Value Loss: 0.0002
+Iteration 98/800
+Policy Loss: 1.0006, Value Loss: 0.0001
+Iteration 99/800
+Policy Loss: 0.6276, Value Loss: 0.0000
+Iteration 100/800
+Policy Loss: 0.7278, Value Loss: 0.0001
+Starting evaluation against pure MCTS at iteration 100
+win: 3, lose: 7, tie:0
+Iteration 101/800
+Policy Loss: 0.9134, Value Loss: 0.0001
+Iteration 102/800
+Policy Loss: 0.9768, Value Loss: 0.0001
+Iteration 103/800
+Policy Loss: 0.8562, Value Loss: 0.0000
+Iteration 104/800
+Policy Loss: 0.7361, Value Loss: 0.0000
+Iteration 105/800
+Policy Loss: 0.6270, Value Loss: 0.0000
+Iteration 106/800
+Policy Loss: 0.4180, Value Loss: 0.0000
+Iteration 107/800
+Policy Loss: 0.3368, Value Loss: 0.0000
+Iteration 108/800
+Policy Loss: 0.6761, Value Loss: 0.0000
+Iteration 109/800
+Policy Loss: 0.3791, Value Loss: 0.0000
+Iteration 110/800
+Policy Loss: 0.2823, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 110
+win: 1, lose: 9, tie:0
+Iteration 111/800
+Policy Loss: 0.4184, Value Loss: 0.0000
+Iteration 112/800
+Policy Loss: 0.5251, Value Loss: 0.0000
+Iteration 113/800
+Policy Loss: 0.6874, Value Loss: 0.0003
+Iteration 114/800
+Policy Loss: 0.5748, Value Loss: 0.0000
+Iteration 115/800
+Policy Loss: 0.6206, Value Loss: 0.0000
+Iteration 116/800
+Policy Loss: 0.2838, Value Loss: 0.0000
+Iteration 117/800
+Policy Loss: 0.7307, Value Loss: 0.0002
+Iteration 118/800
+Policy Loss: 0.1195, Value Loss: 0.0000
+Iteration 119/800
+Policy Loss: 0.3884, Value Loss: 0.0002
+Iteration 120/800
+Policy Loss: 0.2542, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 120
+win: 6, lose: 4, tie:0
+Iteration 121/800
+Policy Loss: 0.2343, Value Loss: 0.0000
+Iteration 122/800
+Policy Loss: 0.4781, Value Loss: 0.0000
+Iteration 123/800
+Policy Loss: 0.1635, Value Loss: 0.0033
+Iteration 124/800
+Policy Loss: 0.1211, Value Loss: 0.0000
+Iteration 125/800
+Policy Loss: 0.2413, Value Loss: 0.0000
+Iteration 126/800
+Policy Loss: 0.2968, Value Loss: 0.0000
+Iteration 127/800
+Policy Loss: 0.3755, Value Loss: 0.0000
+Iteration 128/800
+Policy Loss: 0.6229, Value Loss: 0.0008
+Iteration 129/800
+Policy Loss: 0.2191, Value Loss: 0.0000
+Iteration 130/800
+Policy Loss: 0.0787, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 130
+win: 7, lose: 3, tie:0
+Iteration 131/800
+Policy Loss: 0.7628, Value Loss: 0.0000
+Iteration 132/800
+Policy Loss: 0.1655, Value Loss: 0.0012
+Iteration 133/800
+Policy Loss: 0.3287, Value Loss: 0.0000
+Iteration 134/800
+Policy Loss: 0.5364, Value Loss: 0.0000
+Iteration 135/800
+Policy Loss: 0.4540, Value Loss: 0.0038
+Iteration 136/800
+Policy Loss: 0.2450, Value Loss: 0.0000
+Iteration 137/800
+Policy Loss: 0.2495, Value Loss: 0.0000
+Iteration 138/800
+Policy Loss: 0.1996, Value Loss: 0.0000
+Iteration 139/800
+Policy Loss: 0.0180, Value Loss: 0.0000
+Iteration 140/800
+Policy Loss: 0.3464, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 140
+win: 4, lose: 6, tie:0
+Iteration 141/800
+Policy Loss: 0.2599, Value Loss: 0.0001
+Iteration 142/800
+Policy Loss: 0.1412, Value Loss: 0.0132
+Iteration 143/800
+Policy Loss: 0.0542, Value Loss: 0.0000
+Iteration 144/800
+Policy Loss: 0.0979, Value Loss: 0.0000
+Iteration 145/800
+Policy Loss: 0.1877, Value Loss: 0.0000
+Iteration 146/800
+Policy Loss: 0.0610, Value Loss: 0.0002
+Iteration 147/800
+Policy Loss: 0.0198, Value Loss: 0.0000
+Iteration 148/800
+Policy Loss: 0.1406, Value Loss: 0.0000
+Iteration 149/800
+Policy Loss: 0.1231, Value Loss: 0.0000
+Iteration 150/800
+Policy Loss: 0.0609, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 150
+win: 2, lose: 8, tie:0
+Iteration 151/800
+Policy Loss: 0.0261, Value Loss: 0.0000
+Iteration 152/800
+Policy Loss: 0.0935, Value Loss: 0.0000
+Iteration 153/800
+Policy Loss: 0.0599, Value Loss: 0.0000
+Iteration 154/800
+Policy Loss: 0.0599, Value Loss: 0.0000
+Iteration 155/800
+Policy Loss: 0.0186, Value Loss: 0.0000
+Iteration 156/800
+Policy Loss: 0.0230, Value Loss: 0.0000
+Iteration 157/800
+Policy Loss: 0.0317, Value Loss: 0.0000
+Iteration 158/800
+Policy Loss: 0.1629, Value Loss: 0.0000
+Iteration 159/800
+Policy Loss: 0.0394, Value Loss: 0.0000
+Iteration 160/800
+Policy Loss: 0.0996, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 160
+win: 6, lose: 4, tie:0
+Iteration 161/800
+Policy Loss: 0.0171, Value Loss: 0.0000
+Iteration 162/800
+Policy Loss: 0.0232, Value Loss: 0.0000
+Iteration 163/800
+Policy Loss: 0.0175, Value Loss: 0.0000
+Iteration 164/800
+Policy Loss: 0.0336, Value Loss: 0.0000
+Iteration 165/800
+Policy Loss: 0.0315, Value Loss: 0.0000
+Iteration 166/800
+Policy Loss: 0.0090, Value Loss: 0.0000
+Iteration 167/800
+Policy Loss: 0.0438, Value Loss: 0.0000
+Iteration 168/800
+Policy Loss: 0.0058, Value Loss: 0.0000
+Iteration 169/800
+Policy Loss: 0.0226, Value Loss: 0.0000
+Iteration 170/800
+Policy Loss: 0.0022, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 170
+win: 7, lose: 3, tie:0
+Iteration 171/800
+Policy Loss: 0.0231, Value Loss: 0.0000
+Iteration 172/800
+Policy Loss: 0.0362, Value Loss: 0.0000
+Iteration 173/800
+Policy Loss: 0.0161, Value Loss: 0.0000
+Iteration 174/800
+Policy Loss: 0.0030, Value Loss: 0.0000
+Iteration 175/800
+Policy Loss: 0.0516, Value Loss: 0.0000
+Iteration 176/800
+Policy Loss: 0.0122, Value Loss: 0.0000
+Iteration 177/800
+Policy Loss: 0.0058, Value Loss: 0.0000
+Iteration 178/800
+Policy Loss: 0.0028, Value Loss: 0.0000
+Iteration 179/800
+Policy Loss: 0.0196, Value Loss: 0.0000
+Iteration 180/800
+Policy Loss: 0.0024, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 180
+win: 8, lose: 2, tie:0
+Iteration 181/800
+Policy Loss: 0.0162, Value Loss: 0.0000
+Iteration 182/800
+Policy Loss: 0.0144, Value Loss: 0.0000
+Iteration 183/800
+Policy Loss: 0.0014, Value Loss: 0.0000
+Iteration 184/800
+Policy Loss: 0.0027, Value Loss: 0.0000
+Iteration 185/800
+Policy Loss: 0.0065, Value Loss: 0.0000
+Iteration 186/800
+Policy Loss: 0.0070, Value Loss: 0.0000
+Iteration 187/800
+Policy Loss: 0.0038, Value Loss: 0.0000
+Iteration 188/800
+Policy Loss: 0.0086, Value Loss: 0.0000
+Iteration 189/800
+Policy Loss: 0.0019, Value Loss: 0.0000
+Iteration 190/800
+Policy Loss: 0.0015, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 190
+win: 7, lose: 3, tie:0
+Iteration 191/800
+Policy Loss: 0.0009, Value Loss: 0.0000
+Iteration 192/800
+Policy Loss: 0.0022, Value Loss: 0.0000
+Iteration 193/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 194/800
+Policy Loss: 0.0019, Value Loss: 0.0000
+Iteration 195/800
+Policy Loss: 0.0033, Value Loss: 0.0000
+Iteration 196/800
+Policy Loss: 0.0005, Value Loss: 0.0000
+Iteration 197/800
+Policy Loss: 0.0018, Value Loss: 0.0000
+Iteration 198/800
+Policy Loss: 0.0011, Value Loss: 0.0000
+Iteration 199/800
+Policy Loss: 0.0048, Value Loss: 0.0000
+Iteration 200/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 200
+win: 8, lose: 2, tie:0
+Iteration 201/800
+Policy Loss: 0.0031, Value Loss: 0.0000
+Iteration 202/800
+Policy Loss: 0.0023, Value Loss: 0.0000
+Iteration 203/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 204/800
+Policy Loss: 0.0008, Value Loss: 0.0000
+Iteration 205/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 206/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Iteration 207/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 208/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Iteration 209/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 210/800
+Policy Loss: 0.0005, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 210
+win: 6, lose: 4, tie:0
+Iteration 211/800
+Policy Loss: 0.0106, Value Loss: 0.0000
+Iteration 212/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 213/800
+Policy Loss: 0.0023, Value Loss: 0.0000
+Iteration 214/800
+Policy Loss: 0.0012, Value Loss: 0.0000
+Iteration 215/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 216/800
+Policy Loss: 0.0030, Value Loss: 0.0000
+Iteration 217/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 218/800
+Policy Loss: 0.0005, Value Loss: 0.0000
+Iteration 219/800
+Policy Loss: 0.0005, Value Loss: 0.0000
+Iteration 220/800
+Policy Loss: 0.0005, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 220
+win: 6, lose: 4, tie:0
+Iteration 221/800
+Policy Loss: 0.0007, Value Loss: 0.0000
+Iteration 222/800
+Policy Loss: 0.0012, Value Loss: 0.0000
+Iteration 223/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Iteration 224/800
+Policy Loss: 0.0007, Value Loss: 0.0000
+Iteration 225/800
+Policy Loss: 0.0011, Value Loss: 0.0000
+Iteration 226/800
+Policy Loss: 0.0011, Value Loss: 0.0000
+Iteration 227/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Iteration 228/800
+Policy Loss: 0.0010, Value Loss: 0.0000
+Iteration 229/800
+Policy Loss: 0.0008, Value Loss: 0.0000
+Iteration 230/800
+Policy Loss: 0.0005, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 230
+win: 8, lose: 2, tie:0
+Iteration 231/800
+Policy Loss: 0.0007, Value Loss: 0.0000
+Iteration 232/800
+Policy Loss: 0.0014, Value Loss: 0.0000
+Iteration 233/800
+Policy Loss: 0.0007, Value Loss: 0.0000
+Iteration 234/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Iteration 235/800
+Policy Loss: 0.0015, Value Loss: 0.0000
+Iteration 236/800
+Policy Loss: 0.0013, Value Loss: 0.0000
+Iteration 237/800
+Policy Loss: 0.0007, Value Loss: 0.0000
+Iteration 238/800
+Policy Loss: 0.0005, Value Loss: 0.0000
+Iteration 239/800
+Policy Loss: 0.0007, Value Loss: 0.0000
+Iteration 240/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 240
+win: 6, lose: 4, tie:0
+Iteration 241/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Iteration 242/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 243/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 244/800
+Policy Loss: 0.0012, Value Loss: 0.0000
+Iteration 245/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Iteration 246/800
+Policy Loss: 0.0010, Value Loss: 0.0000
+Iteration 247/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 248/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 249/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 250/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 250
+win: 9, lose: 1, tie:0
+Iteration 251/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 252/800
+Policy Loss: 0.0011, Value Loss: 0.0000
+Iteration 253/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Iteration 254/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 255/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 256/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 257/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 258/800
+Policy Loss: 0.0005, Value Loss: 0.0000
+Iteration 259/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 260/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 260
+win: 5, lose: 5, tie:0
+Iteration 261/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 262/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 263/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 264/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 265/800
+Policy Loss: 0.0011, Value Loss: 0.0000
+Iteration 266/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 267/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 268/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 269/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 270/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 270
+win: 9, lose: 1, tie:0
+Iteration 271/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 272/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 273/800
+Policy Loss: 0.0011, Value Loss: 0.0000
+Iteration 274/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 275/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 276/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 277/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 278/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 279/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 280/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 280
+win: 6, lose: 4, tie:0
+Iteration 281/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 282/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 283/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 284/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 285/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 286/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 287/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 288/800
+Policy Loss: 0.0009, Value Loss: 0.0000
+Iteration 289/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 290/800
+Policy Loss: 0.0005, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 290
+win: 7, lose: 3, tie:0
+Iteration 291/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 292/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 293/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 294/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 295/800
+Policy Loss: 0.0008, Value Loss: 0.0000
+Iteration 296/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 297/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 298/800
+Policy Loss: 0.0010, Value Loss: 0.0000
+Iteration 299/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 300/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 300
+win: 6, lose: 4, tie:0
+Iteration 301/800
+Policy Loss: 0.0004, Value Loss: 0.0000
+Iteration 302/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 303/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 304/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 305/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 306/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 307/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 308/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 309/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 310/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 310
+win: 5, lose: 5, tie:0
+Iteration 311/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 312/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 313/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 314/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 315/800
+Policy Loss: 0.0008, Value Loss: 0.0000
+Iteration 316/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 317/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 318/800
+Policy Loss: 0.0007, Value Loss: 0.0000
+Iteration 319/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 320/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 320
+win: 6, lose: 4, tie:0
+Iteration 321/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 322/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 323/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 324/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 325/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 326/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 327/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 328/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 329/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 330/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 330
+win: 8, lose: 2, tie:0
+Iteration 331/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 332/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 333/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 334/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 335/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 336/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 337/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 338/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 339/800
+Policy Loss: 0.0006, Value Loss: 0.0000
+Iteration 340/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 340
+win: 8, lose: 2, tie:0
+Iteration 341/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 342/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 343/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 344/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Iteration 345/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 346/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 347/800
+Policy Loss: 0.0003, Value Loss: 0.0000
+Iteration 348/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 349/800
+Policy Loss: 0.0001, Value Loss: 0.0000
+Iteration 350/800
+Policy Loss: 0.0002, Value Loss: 0.0000
+Starting evaluation against pure MCTS at iteration 350
+win: 8, lose: 2, tie:0
